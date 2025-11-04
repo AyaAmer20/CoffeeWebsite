@@ -11,7 +11,7 @@ main{
     margin: 30px;
 }
 .we_service {
-    background-image: url("../image/hero.jpg");
+    background-image: url("./hero.jpg");
     background-repeat: no-repeat;
     height: 97vh;
     background-position: center;
